@@ -1,8 +1,6 @@
 --find-links  https://storage.googleapis.com/jax-releases/jax_releases.html 
 --find-links https://download.pytorch.org/whl/torch_stable.html
 yolov5==5.0.7
-jax==0.2.25
-jaxlib==0.1.71+cuda111
 jina==2.1.13
 jina-commons @ git+https://github.com/jina-ai/jina-commons.git@1801bb497749f7f8ead284701ada9d0969ff2a3e
 lightgbm==2.2.3
@@ -14,10 +12,8 @@ mkl-random==1.2.2
 mkl-service==2.4.0
 nltk==3.2.5
 numpy==1.19.5
-pandas==1.1.5
 scikit-learn==1.0.1
 scipy==1.4.1
-seaborn==0.11.2
 torch==1.10.0+cu111
 torchvision==0.11.1+cu111
 tqdm==4.43.0
