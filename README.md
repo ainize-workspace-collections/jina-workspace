@@ -48,8 +48,7 @@ docker run -d -p 8000:8000 -p 8010:8010 -p 8020:8020 -e PASSWORD=<password> -e G
 * Visual Studio Code : http://server-address:8010/
 * Terminal - ttyd : http://server-address:8020/
 
-### How to use my custom image in Ainize Workspace
-Do you want to use the image you created? If so, please follow the instructions.
+### How to use this image in Ainize Workspace
 1. Click the "Create your workspace" button on the [Ainize Workspace page](https://ainize.ai/workspace).
 2. As the Container option, select "Import from github".
 3. Click the "Start with repo url" button.
